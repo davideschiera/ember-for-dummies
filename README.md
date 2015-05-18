@@ -18,6 +18,6 @@ Here a bunch of links that you should keep open all the times:
 
 ## Index
 
-* [Ember](ember.md)
-* [Ember Data](ember-data.md)
+* [Ember](ember.md) _coming soon_
+* [Ember Data](ember-data.md) _coming soon_
 * [Ember CLI](ember-cli.md)
